@@ -2,7 +2,7 @@
 
 ![acc](https://github.com/niloufar-yousefi/accordian/assets/156951582/1fe9ce91-eb9b-4cb3-a1be-9788ab8bfd75)
 
-https://niloufar-yousefi.github.io/accordian/
+demo: https://niloufar-yousefi.github.io/accordian/
 
 - Developed by Niloofar Yoosefi
 
